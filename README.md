@@ -26,11 +26,11 @@
 
 | Name | Role | GitHub |
 |------|------|--------|
-| **Name 1** | Role | [@username1](https://github.com/username1) |
-| **Name 2** | Role | [@username2](https://github.com/username2) |
-| **Name 3** | Role | [@username3](https://github.com/username3) |
-| **Name 4** | Role | [@username4](https://github.com/username4) |
-
+| **Chrystel Jae Santos** | Student | [@Chrystel](https://github.com/username1) |
+| **Cristian James Cruz** | Student | [@Cristian](https://github.com/CJ-Zurc) |
+| **Jerwin Baron Vitales** | Student | [@Jerwin](https://github.com/username3) |
+| **Jim Guitierrez** | Mentor | [@N/A](https://github.com/username4) |
+| **John Christian Linaban** | Student | [@JohnC](https://github.com/username4) |
 ---
 
 ## 🎯 Policy Overview
@@ -65,7 +65,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![PowerBI]()
 </div>
 
 ### 📚 Libraries & Tools
